@@ -1,3 +1,17 @@
+.text-black {
+  display: none;
+}
+
+.dark-background {
+  background-color: black;
+  color: white;
+}
+.light-background {
+  background-color: white;
+  color: black;
+
+}
+
 .walrus-showing {
   display: none;
 }
